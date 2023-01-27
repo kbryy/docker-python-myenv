@@ -1,1 +1,5 @@
-# Docker-JupyterLab
+
+# docker-python-myenv
+
+# 起動
+docker compose up --build
