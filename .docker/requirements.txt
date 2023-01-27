@@ -1,4 +1,0 @@
-numpy~=1.22.0
-matplotlib~=3.5.1
-
-jupyterlab~=3.2.6
